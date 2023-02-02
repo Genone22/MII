@@ -1,4 +1,4 @@
-# MMI
+# MII
 ### Steganography App
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8380B935&center=true&vCenter=true&width=435&height=30&lines=Hide+your+message+inside+image...)](https://git.io/typing-svg)
